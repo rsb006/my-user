@@ -1,0 +1,25 @@
+
+.container{
+    width: 1000px;
+    margin-left: 150px;
+    background-color: rgb(148, 255, 126);
+
+}
+
+.div1{
+   text-align:center;
+}
+
+a{
+    margin-left: 300px;
+}
+
+.title{
+    padding-left: 300px;
+    background-color:rgb(58, 168, 48) ;
+    font-weight: 500;
+    font-size: larger;
+    font-family:Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+
+
+}
